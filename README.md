@@ -95,6 +95,4 @@ El proyecto incluye una memoria explicativa en PDF que describe:
 ## Autor
 
 **Nombre:** Roberto Báez Herrera  
-**Universidad:** Universidad de La Laguna  
-**Curso:** Diseño y Análisis de Algoritmos
 **Fecha:** Mayo 2025
